@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class SimpleStack implements ISimpleStack {
-    private List<Item> items;
+    private final List<Item> items;
 
     public SimpleStack() {
         this.items = new ArrayList<>();
