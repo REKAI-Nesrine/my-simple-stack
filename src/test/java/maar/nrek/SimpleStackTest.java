@@ -1,5 +1,8 @@
-package maar.nrek.mysimplestack;
+package maar.nrek;
 
+import maar.nrek.mysimplestack.EmptyStackException;
+import maar.nrek.mysimplestack.Item;
+import maar.nrek.mysimplestack.SimpleStack;
 import org.junit.Before;
 import org.junit.Test;
 

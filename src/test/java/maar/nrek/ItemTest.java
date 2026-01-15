@@ -1,5 +1,6 @@
-package maar.nrek.mysimplestack;
+package maar.nrek;
 
+import maar.nrek.mysimplestack.Item;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
